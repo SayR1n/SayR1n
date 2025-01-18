@@ -1,4 +1,6 @@
-# Hello, I'm Say_Run! 👋  
+# Hello, I'm Say_Run!  
+
+![Waving Hand](https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/refs/heads/master/handshake.gif)  
 
 I'm a **Russian developer** 🇷🇺 passionate about building clean, efficient, and scalable solutions.  
 
