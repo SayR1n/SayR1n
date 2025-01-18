@@ -1,14 +1,37 @@
-# Hello, I'm Say_Run 👋
+# Hello, I'm Say_Run! 👋  
 
-I'm a **Russian developer** 🇷🇺 passionate about coding and building cool stuff. I primarily work with:
+I'm a **Russian developer** 🇷🇺 passionate about building clean, efficient, and scalable solutions.  
 
-- **JavaScript** 🌐
-- **TypeScript** 🛠️
-- **Java** ☕
+---
 
-Currently, I'm expanding my skills by learning:
+### 🛠️ **Tech Stack**  
+Here are the technologies I work with:  
 
-- **C++** 🧠
-- **C#** 🎮
+- **JavaScript** 🌐  
+- **TypeScript** 🛠️  
+- **Java** ☕  
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat about tech! 🚀
+---
+
+### 📚 **Currently Learning**  
+I'm expanding my skills with:  
+
+- **C++** 🧠  
+- **C#** 🎮  
+
+---
+
+### 🌟 **About Me**  
+I love solving complex problems, learning new technologies, and contributing to meaningful projects. My goal is to grow as a developer and create tools that make a difference.  
+
+---
+
+### 📫 **Let’s Connect!**  
+Feel free to reach out for collaborations, questions, or just a chat:  
+
+- **Discord**: `run_say`  
+- **Telegram**: [@KirillGustoy](https://t.me/KirillGustoy)  
+
+---
+
+Thanks for stopping by! 😊  
