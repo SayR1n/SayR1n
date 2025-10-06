@@ -1,17 +1,1 @@
-# Hi, I'm Say_Run 👋
-
-Russian developer building clean and efficient solutions.
-
----
-
-### 🛠️ Tech
-- JavaScript / TypeScript / Java
-
-### 📚 Learning
-- C++ / C#
-
----
-
-### 📫 Connect
-- Discord: `run_say`  
-- Telegram: [@KirillGustoy](https://t.me/KirillGustoy)
+Hello, my name is Kirill. I am a software developer from Russia with experience in JavaScript, TypeScript, and Java. I am currently expanding my skills in C++ and C#. I focus on writing clean, efficient, and maintainable code and strive to create reliable and scalable software solutions.
